@@ -1,6 +1,6 @@
 [[models]]
 # モデル名
-name = "mirai"
+name = "Rice"
 # ビルボーディング表示設定
 billboarding = false
 # 非モーション再生時の呼吸動作設定
